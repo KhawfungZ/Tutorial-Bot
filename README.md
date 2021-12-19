@@ -13,3 +13,4 @@ Commands control bot
 !leave : remove bot from a channel
 
 Song queue system from Cr.EvieePy
+# Thanks for your share
