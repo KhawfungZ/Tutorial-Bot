@@ -1,5 +1,5 @@
 # Tutorial-Bot
-Tutorial Song Discord Bot
+Tutorial Music Discord Bot
 
 Code Discord Bot by Discord.py
 Cr.TechincalPhoo
